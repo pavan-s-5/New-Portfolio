@@ -10,7 +10,6 @@ import { FaGithub, FaFacebookF } from "react-icons/fa";
 import { FaXTwitter, FaInstagram } from "react-icons/fa6";
 
 // pdf
-import resumepdf from "../assets/Pavan_CV.pdf"; 
 
 const Hero = () => {
 
@@ -65,7 +64,7 @@ const Hero = () => {
           }
         </ul>
 
-        <a href={resumepdf} download={resumepdf}>
+        <a href={#} download={#}>
         <button  className="flex justify-center items-center text-center gap-2 p-2 rounded text-black font-bold bg-bright_yellow xxxs:w-full md:w-48 cursor-pointer hover:border-2 hover:border-blue-200">
           
         DOWNLOAD CV <span> <FiDownload /></span>
