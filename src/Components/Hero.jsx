@@ -10,7 +10,7 @@ import { FaGithub, FaFacebookF } from "react-icons/fa";
 import { FaXTwitter, FaInstagram } from "react-icons/fa6";
 
 // pdf
-import resumepdf from "../assets/UPDATED-RESUME-PAVAN.pdf"; 
+import resumepdf from "../assets/Pavan_CV.pdf"; 
 
 const Hero = () => {
 
