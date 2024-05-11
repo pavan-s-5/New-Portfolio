@@ -1,8 +1,11 @@
-# React + Vite
+**MY NEW PORTFOLIO**
+--------------------
+Hello! 
+This is my new portfolio repo created using React Js, Tailwind css.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am an enthusiast Front-end Developer, passionate in designing, developing and implementing scalable and responsive web applications. With a keen attention to detail and a passion for creating seamless user experiences and visually stunning web applications and Seeking opportunity in tech career as a Front-End developer.
 
-Currently, two official plugins are available:
+I work on Tech Stacks like : HTML, CSS, TAILWINDCSS, JAVASCRIPT, REACT JS, WORDPRESS, SHOPIFY, FIGMA, CANVA, PHOTOSHOP
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Beyond my technical capabilities, I am a team player who thrives in collaborative environments. I believe in open communication, fostering a positive work culture, and delivering high-quality results that align with project goals and deadlines. I am confident that my proactive attitude and problem-solving skills would make me a valuable asset to the team.
+
