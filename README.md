@@ -1,7 +1,9 @@
-**MY NEW PORTFOLIO**
+**MY NEW PORTFOLIO - PERSONAL PORTFOLIO**
 --------------------
 Hello! 
 This is my new portfolio repo created using React Js, Tailwind css.
+
+This website is responsive across all the devices and user friendly.
 
 I am an enthusiast Front-end Developer, passionate in designing, developing and implementing scalable and responsive web applications. With a keen attention to detail and a passion for creating seamless user experiences and visually stunning web applications and Seeking opportunity in tech career as a Front-End developer.
 
