@@ -44,11 +44,11 @@ const Skills = () => {
       ContentExperience: [
         {
           id: "e1",
-          company: "SRI HANUMAN ENGINEERING",
+          company: "Maruti Digital Technologies - Freelancing",
           designation: "Web Developer",
           year: "April 2023 - Present",
           description:
-            "As a Web Developer at Sri Hanuman Engineering, I adept in WordPress, HTML/CSS, JavaScript, React, Shopify, and design tools like Figma, Canva, and Photoshop.  I've contributed to the successful delivery of diverse projects. From dynamic WordPress and Shopify sites to bespoke React applications, my 1.3+ years of experience reflect a commitment to innovation and excellence in web development.",
+            "As a Web Developer at Maruti Digital Technologies, I adept in WordPress, HTML/CSS, JavaScript, React, Shopify, and design tools like Figma, Canva, and Photoshop.  I've contributed to the successful delivery of diverse projects. From dynamic WordPress and Shopify sites to bespoke React applications, my 1.3+ years of experience reflect a commitment to innovation and excellence in web development.",
         },
 
         {
